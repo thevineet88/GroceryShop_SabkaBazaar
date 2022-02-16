@@ -2,7 +2,6 @@
 
 Tech Stack : HTML5, CSS3, Javascript, Handlebar.js
 
-Home Page:
 https://user-images.githubusercontent.com/13583034/154263227-d215643a-d41d-4a32-97c8-412217261703.mp4
 
 Products Page:
