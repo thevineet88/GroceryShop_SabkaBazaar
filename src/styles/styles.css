@@ -1,0 +1,12 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: x-small;
+    }
+    
+  }

@@ -1,0 +1,44 @@
+.login-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.login-left {
+    text-align-last: center;
+}
+
+main .login-right input {
+    width: 35%;
+}
+
+main .login-right button{
+    width: 35%
+}
+
+main .login-left h1{
+    margin-top: 60px;
+}
+
+/* Register HTML CSS Block */
+
+.register-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+
+.register-left {
+    text-align-last: center;
+}
+
+main .register-right input {
+    width: 35%;
+}
+
+main .register-right button{
+    width: 35%
+}
+
+main .register-left h1{
+    margin-top: 80px;
+}

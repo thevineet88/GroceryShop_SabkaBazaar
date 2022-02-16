@@ -1,0 +1,43 @@
+.navbar-pri{
+    float:right;
+  }
+  
+.navbar-link{
+    padding-right: 2rem;
+    font-size: 1rem;
+    font-weight: bolder;
+    color: grey;
+    text-decoration: none;
+}
+
+#cart-btn {
+  width: 200px;
+}
+
+header span img{
+    width: 25px;
+}
+header {
+  border-bottom-color: white;
+  border-bottom-style: groove;
+}
+
+@media screen and (max-width: 600px) {
+  #home-logo {
+    width: 30%;
+  }
+
+  .navbar-link{
+    padding-right: unset;
+    font-size: x-small;
+  }
+
+  .navbar-brand {
+    margin-right: unset;
+  }
+
+  header span img{
+    width: 15px;
+  }
+
+}
