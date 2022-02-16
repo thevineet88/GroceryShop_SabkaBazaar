@@ -16,7 +16,9 @@ Signup Page:
 
 Mobile Screens:
 <img width="576" alt="Mobile_Products" src="https://user-images.githubusercontent.com/13583034/154263287-7102dc0c-6c0b-43de-aacc-3b13788d8abb.png">
+<img width="576" alt="Mobile_Home" src="https://user-images.githubusercontent.com/13583034/154265997-7e41fdb9-3075-44e1-b913-801541da349e.png">
 
 WPO,SEO,Accessibility:
 <img width="576" alt="SEO,WPO,Accessibility" src="https://user-images.githubusercontent.com/13583034/154263985-5c1f0c67-0ca6-461c-a662-091423847906.png">
+
 
