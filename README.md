@@ -4,10 +4,8 @@ Tech Stack : HTML5, CSS3, Javascript, Handlebar.js
 
 https://user-images.githubusercontent.com/13583034/154263227-d215643a-d41d-4a32-97c8-412217261703.mp4
 
-Products Page:
 https://user-images.githubusercontent.com/13583034/154263268-8fe926e2-4829-4c4c-aaad-775f0adcf680.mp4
 
-Cart in action:
 https://user-images.githubusercontent.com/13583034/154263259-20225648-8b1a-49af-a931-7d6fc242638e.mp4
 
 Login Page:
